@@ -1,7 +1,7 @@
 | Variable | Isi |
 | -------- | --- |
-| *Nama* | ARIQ IBTIHAL FIRDAUS  |
-| *NIM* | 312310446 |
+| *Nama* | IHSAN RANGGA MAHENDRA  |
+| *NIM* | 312310494 |
 | *Kelas* | TI.23.A5 |
 | *Mata Kuliah* | Pemrograman Visual Desktop (UAS)|
 | *Dosen Pengampu* | Dr. Muhamad Fatchan, S.Kom., M.Kom|
